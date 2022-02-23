@@ -1,2 +1,2 @@
 # Code-Samples
-An open repository of random code projects I've completed.
+An open repository of interesting code projects I've completed.
