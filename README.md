@@ -1,5 +1,5 @@
 # Code-Samples
-An open repository of code projects I've enjoyed working on.
+An open repository of code projects I've enjoyed working on and bits of code I've found useful for coding tests.
 
 # Crown Clothing
 Completed in 2020 as part of a React development course. It's a full ecommerce site using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe and more.
