@@ -1,5 +1,5 @@
 // Problem - Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.
-// Solution - Check if the current interval begins after the previous interval ends, which is easy after sorting the intervals.
+// Solution - Check if the current interval begins after the previous interval ends, once the intervals have been sorted.
 
 const merge = intervals => {
     if (intervals.length < 2) return intervals;
