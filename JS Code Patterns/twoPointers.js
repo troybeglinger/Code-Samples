@@ -18,3 +18,4 @@ console.log(uniqueValueCount([2, 3, 4, 4]));
 // Define uniqueValues starting at 1, since there will always be at least one.
 // Use a while loop to let the second pointer do some logic until the scout pointer reaches the end of the array.
 // If the two pointers start at the same value, move the scout up one.
+// Notes - Normally improves the time complexity from O(n^2) to O(n). Often used for searching for pairs in a SORTED ARRAY.
