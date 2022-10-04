@@ -20,4 +20,4 @@ Completed in 2020 as part of a React development course. It uses Node.js, React.
 Completed in 2020 as part of a web development boot camp. It uses JavaScript ES6, jQuery, HTML, and CSS.
 
 ## Wyrmsele
-Exceprts from a text-based MMORPG I first created in 2007-09 and worked on updating in 2017-20. It uses PHP, HTML, and CSS. As it was originally written in PHP 4, and the full game consists of nearly 240,000 lines of code, I finally had to let it go for other projects.
+Exceprts from a text-based MMORPG I first created in 2007-09 and worked on updating in 2017-20. It uses PHP, JavaScript, HTML, and CSS. As it was originally written in PHP 4, and the full game consists of nearly 240,000 lines of code, I finally had to let it go for other projects.
